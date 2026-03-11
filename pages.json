@@ -1,0 +1,95 @@
+﻿{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "Mall"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "Login"
+      }
+    },
+    {
+      "path": "pages/product/list",
+      "style": {
+        "navigationBarTitleText": "Products"
+      }
+    },
+    {
+      "path": "pages/product/detail",
+      "style": {
+        "navigationBarTitleText": "Product Detail"
+      }
+    },
+    {
+      "path": "pages/cart/index",
+      "style": {
+        "navigationBarTitleText": "Cart"
+      }
+    },
+    {
+      "path": "pages/order/confirm",
+      "style": {
+        "navigationBarTitleText": "Confirm Order"
+      }
+    },
+    {
+      "path": "pages/order/result",
+      "style": {
+        "navigationBarTitleText": "Payment Result"
+      }
+    },
+    {
+      "path": "pages/user/index",
+      "style": {
+        "navigationBarTitleText": "User Center"
+      }
+    },
+    {
+      "path": "pages/user/address",
+      "style": {
+        "navigationBarTitleText": "Address"
+      }
+    },
+    {
+      "path": "pages/user/orders",
+      "style": {
+        "navigationBarTitleText": "My Orders"
+      }
+    },
+    {
+      "path": "pages/chat/index",
+      "style": {
+        "navigationBarTitleText": "Customer Service"
+      }
+    },
+    {
+      "path": "pages/growth/index",
+      "style": {
+        "navigationBarTitleText": "Marketing"
+      }
+    },
+    {
+      "path": "pages/recommendation/index",
+      "style": {
+        "navigationBarTitleText": "Recommendations"
+      }
+    },
+    {
+      "path": "pages/analytics/index",
+      "style": {
+        "navigationBarTitleText": "Analytics"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Mall",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "uniIdRouter": {}
+}
